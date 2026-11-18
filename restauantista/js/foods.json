@@ -1,0 +1,75 @@
+{
+  "categories": {
+    "Breakfast": [
+      {
+        "name": "Pancakes",
+        "price": 5.4,
+        "image": "img/pancakes.webp",
+        "rating": 4.6,
+        "preparationTime": "15-20 mins"
+      },
+      {
+        "name": "Omlet",
+        "price": 6.8,
+        "image": "img/omlette.webp",
+        "rating": 4.8,
+        "preparationTime": "10-15 mins"
+      }
+    ],
+    "Lunch": [
+      {
+        "name": "Margarita",
+        "price": 10.25,
+        "image": "img/pizza.webp",
+        "rating": 4.6,
+        "preparationTime": "10-15 mins"
+      },
+      {
+        "name": "Salad",
+        "price": 4.25,
+        "image": "img/salad.webp",
+        "rating": 4.6,
+        "preparationTime": "5-10 mins"
+      },
+      {
+        "name": "Burger",
+        "price": 7.3,
+        "image": "img/burger.png",
+        "rating": 4.6,
+        "preparationTime": "10-15 mins"
+      }
+    ],
+    "Dinner": [
+      {
+        "name": "Steak",
+        "price": 17.99,
+        "image": "img/steak.webp",
+        "rating": 4.6,
+        "preparationTime": "15-20 mins"
+      },
+      {
+        "name": "Fish",
+        "price": 15.5,
+        "image": "img/fish.webp",
+        "rating": 4.6,
+        "preparationTime": "15-20 mins"
+      }
+    ],
+    "Dessert": [
+      {
+        "name": "Cake",
+        "price": 12.39,
+        "image": "img/cake.webp",
+        "rating": 4.6,
+        "preparationTime": "10-15 mins"
+      },
+      {
+        "name": "Ice Cream",
+        "price": 15.5,
+        "image": "img/icecream.png",
+        "rating": 4.6,
+        "preparationTime": "10-15 mins"
+      }
+    ]
+  }
+}

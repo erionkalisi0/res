@@ -1,0 +1,14 @@
+/* CSS Variables */
+:root{
+    --primary-color: #f58100;
+    --light-color: #f9f9f9;
+    --gray-color: #929292;
+    --primary-darker-color: #dd7702;
+
+    --title: 63px;
+
+    --irish-font: 'Irish Grover', system-ui;
+    --popins-font: 'Poppins', sans-serif;
+    --handelee-font: 'Handlee', cursive;
+    --inspiration-font: 'Inspiration', cursive;
+}

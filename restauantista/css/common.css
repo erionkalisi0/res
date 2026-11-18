@@ -1,0 +1,30 @@
+.primary-title{
+    font-size: var(--title);
+    font-weight: 400;
+    font-family: var(--handelee-font);
+    text-align: center;   
+}
+
+.text-white{
+    color: #fff; /* #ffffff, #123 -> #112233 */
+}
+
+.text-black{
+    color: #000;
+}
+
+.text-primary{
+    color: var(--primary-color);
+}
+
+.text-grey{
+    color: var(--gray-color);
+}
+
+.bg-primary{
+    background-color: var(--primary-color);
+}
+
+.bg-light{
+    background-color: var(--light-color);
+}
